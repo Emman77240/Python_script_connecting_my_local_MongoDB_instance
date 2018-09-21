@@ -1,0 +1,47 @@
+>>>
+**********************************************
+The number of documents in my collection: 10
+**********************************************
+All entries in the Business Rating Category: 1
+**********************************************
+{'_id': ObjectId('5ba524eccd062a26a87fa864'),
+ 'cuisine': 'American',
+ 'name': 'Fun State LLC',
+ 'rating': 5}
+{'_id': ObjectId('5ba524eccd062a26a87fa865'),
+ 'cuisine': 'Mexican',
+ 'name': 'Kitchen Goat Corporation',
+ 'rating': 4}
+{'_id': ObjectId('5ba524eccd062a26a87fa866'),
+ 'cuisine': 'Pizza',
+ 'name': 'Kitchen Fun Company',
+ 'rating': 4}
+{'_id': ObjectId('5ba524eccd062a26a87fa867'),
+ 'cuisine': 'Mexican',
+ 'name': 'Goat Fish Corporation',
+ 'rating': 2}
+{'_id': ObjectId('5ba524eccd062a26a87fa868'),
+ 'cuisine': 'Fast Food',
+ 'name': 'Pizza Tastey LLC',
+ 'rating': 4}
+{'_id': ObjectId('5ba524eccd062a26a87fa869'),
+ 'cuisine': 'American',
+ 'name': 'State Salty Company',
+ 'rating': 4}
+{'_id': ObjectId('5ba524eccd062a26a87fa86a'),
+ 'cuisine': 'Bar Food',
+ 'name': 'Fish Pizza LLC',
+ 'rating': 4}
+{'_id': ObjectId('5ba524eccd062a26a87fa86b'),
+ 'cuisine': 'Mexican',
+ 'name': 'Kitchen Fun Company',
+ 'rating': 1}
+{'_id': ObjectId('5ba524eccd062a26a87fa86c'),
+ 'cuisine': 'Vegetarian',
+ 'name': 'Tastey Animal Inc',
+ 'rating': 2}
+{'_id': ObjectId('5ba524eccd062a26a87fa86d'),
+ 'cuisine': 'Sushi Bar',
+ 'name': 'City Salty LLC',
+ 'rating': 4}
+>>>
